@@ -1,0 +1,8 @@
+registries/
+error_logs/
+.vscode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
